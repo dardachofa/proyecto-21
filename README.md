@@ -1,2 +1,2 @@
-# proyecto-21
-proyecto 21
+# elHadaylaEstrella-Proyec_C22
+Plantilla Proyecto PRO-C22: EL HADA Y LA ESTRELLA
